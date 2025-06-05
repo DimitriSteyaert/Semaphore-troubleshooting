@@ -1,5 +1,7 @@
 #!/bin/bash
 
+hostname
+
 echo "CPU cores: $(nproc)"
 
 echo ""
